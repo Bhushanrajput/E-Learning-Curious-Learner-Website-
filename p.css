@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins&display=swap);
+
+body
+{
+    background-image: url('D:\xampp\htdocs\uniquedeveloper/voiceim.jpg');
+    color: white !important;
+    font-family: 'Poppins',sans-serif !important;
+}
+
+button
+{
+    text-align: center;
+    margin-right: auto;
+    background-color: hotpink;
+    padding: 0.9em;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Poppins',sans-serif;
+    cursor: pointer;
+    margin-left: 700px;
+    margin-top: 340px;
+    width: 100px;
+    height: 50px;
+}
